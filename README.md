@@ -1,4 +1,4 @@
-# Hi, I'm Ross Bulat!
+# Hi, I'm Ross Bulat! 👋
 
 ## Software Engineer Building Decentralized & AI-Driven Systems
 
