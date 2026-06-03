@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ross Bulat!
 
-<!--
-**rossbulat/rossbulat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer Building Decentralized & AI-Driven Systems
 
-Here are some ideas to get you started:
+My work focuses on turning complex protocols into accessible products, dashboards, and developer experiences. I also focus on research that turns intelligent systems ideas into practical, production-ready applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-rossbulat.com-blue?style=flat-square\&logo=google-chrome)](https://rossbulat.com)
+[![X](https://img.shields.io/badge/X-rossbulat-black?style=flat-square\&logo=x)](https://x.com/rossbulat)
+[![GitHub](https://img.shields.io/badge/GitHub-rossbulat-black?style=flat-square\&logo=github)](https://github.com/rossbulat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rossbulat-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/rossbulat/)
+
+## Current Projects
+
+* **Polkadot Cloud** - Building tools, dashboards, and applications for the Polkadot ecosystem.
+* **Polkadot Staking Dashboard** - Developing a fully featured staking and nomination pools dashboard powered by Dedot, Staking API, and W3ux.
+
+## Get in Touch
+
+I'm always interested in collaborating on useful products, open-source tools, and research-driven software. Feel free to reach out through my [website](https://rossbulat.com), [GitHub](https://github.com/rossbulat), or social platforms.
+
+Thanks for stopping by!
