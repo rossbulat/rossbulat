@@ -1,6 +1,6 @@
 # Hi, I'm Ross Bulat! 👋
 
-## Software Engineer Building Decentralized & AI-Driven Systems
+## Building Products Across Protocols, AI, and Developer Tools
 
 My work focuses on turning complex protocols into accessible products, dashboards, and developer experiences. I also focus on research that turns intelligent systems ideas into practical, production-ready applications.
 
