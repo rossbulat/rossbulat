@@ -13,8 +13,7 @@ My work focuses on turning complex protocols into accessible products, dashboard
 
 ## Current Projects
 
-* **Polkadot Cloud** - Building tools, dashboards, and applications for the Polkadot ecosystem.
-* **Polkadot Staking Dashboard** - Developing a fully featured staking and nomination pools dashboard powered by Dedot, Staking API, and W3ux.
+* **Polkadot** - Building tools, dashboards, and applications for the Polkadot ecosystem.
 
 ## Get in Touch
 
