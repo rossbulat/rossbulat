@@ -13,7 +13,7 @@ My work focuses on turning complex protocols into accessible products, dashboard
 
 ## Current Projects
 
-* **Polkadot** - Building tools, dashboards, and applications for the Polkadot ecosystem.
+* **Polkadot** - Building tools, dashboards, and applications for the Polkadot ecosystem while supporting product direction, coordination, and delivery.
 
 ## Get in Touch
 
