@@ -6,10 +6,10 @@ My work focuses on turning complex protocols into accessible products, dashboard
 
 ## Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-rossbulat.com-blue?style=flat-square\&logo=google-chrome)](https://rossbulat.com)
-[![X](https://img.shields.io/badge/X-rossbulat-black?style=flat-square\&logo=x)](https://x.com/rossbulat)
-[![GitHub](https://img.shields.io/badge/GitHub-rossbulat-black?style=flat-square\&logo=github)](https://github.com/rossbulat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rossbulat-blue?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/rossbulat/)
+[![Website](https://img.shields.io/badge/Website-rossbulat.com-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://rossbulat.com)
+[![X](https://img.shields.io/badge/X-rossbulat-black?style=flat-square&logo=x&logoColor=white)](https://x.com/rossbulat)
+[![GitHub](https://img.shields.io/badge/GitHub-rossbulat-black?style=flat-square&logo=github&logoColor=white)](https://github.com/rossbulat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rossbulat-blue?style=flat-square)](https://www.linkedin.com/in/rossbulat/)
 
 ## Current Projects
 
